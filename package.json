@@ -1,0 +1,23 @@
+{
+  "name": "hyb",
+  "version": "0.1.0",
+  "description": "HYpertext markup language Builder for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypesystem/hyb.git"
+  },
+  "keywords": [
+    "html",
+    "js"
+  ],
+  "author": "Niels Abildgaard <me@hypesystem.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypesystem/hyb/issues"
+  },
+  "homepage": "https://github.com/hypesystem/hyb#readme"
+}
